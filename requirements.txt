@@ -1,0 +1,13 @@
+opencv-python
+numpy
+pillow
+mediapipe
+streamlit
+google-generativeai
+
+
+
+
+cd "C:\Users\Aman\OneDrive\Desktop\openCVprojects"
+.\.venv\Scripts\Activate.ps1
+python -m streamlit run "C:\Users\Aman\OneDrive\Desktop\Math using gesture using ai\math_gestures.py"
